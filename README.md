@@ -1,2 +1,4 @@
 # Engineering-Calculator
-University project of engineering calculator with graph building
+University project 
+Engineering calculator
+Based on Python with PyQt5 + matplotlib
